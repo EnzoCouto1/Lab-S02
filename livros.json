@@ -1,0 +1,16 @@
+[
+  {
+    "_id": 1,
+    "titulo": "Dom Quixote",
+    "autor": "Miguel de Cervantes",
+    "ano": 1605,
+    "preco": 29.99
+  }, 
+  {
+    "_id": 2,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "J.R.R. Tolkien",
+    "ano": 1954,
+    "preco": 59.90
+  }
+  ]
